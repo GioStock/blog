@@ -1,7 +1,7 @@
 ---
-title: 'First post'
+title: 'Nuovi MacBook e iMac 2024: Performance e Design Incomparabili'
 description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 08 2022'
+pubDate: 'Nov 10 2024'
 heroImage: '/blog-placeholder-3.jpg'
 ---
 
